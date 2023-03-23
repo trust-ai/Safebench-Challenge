@@ -1,7 +1,7 @@
 # If you are not sure what all these fields mean, please refer our documentation here:
 # https://evalai.readthedocs.io/en/latest/configuration.html
-title: Random Number Generator Challenge
-short_description: Random number generation challenge for each submission
+title: Secure and Safe Autonomous Driving (SSAD) Challenge
+short_description: Evaluating the safety and security of autonomous vehicles
 description: templates/description.html
 evaluation_details: templates/evaluation_details.html
 terms_and_conditions: templates/terms_and_conditions.html
@@ -11,8 +11,8 @@ leaderboard_description: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 evaluation_script: evaluation_script.zip
 remote_evaluation: False
 is_docker_based: False
-start_date: 2019-01-01 00:00:00
-end_date: 2099-05-31 23:59:59
+start_date: 2023-03-01 23:59:5900
+end_date: 2023-06-01 23:59:59
 published: True
 
 leaderboard:
